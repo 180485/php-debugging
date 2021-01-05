@@ -1,5 +1,5 @@
 # php-debugging :honeybee:
-
+Our first little step at php looking for some bugging and fixing the problem,
 
 # Learning objectives :books:
 
