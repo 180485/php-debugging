@@ -14,3 +14,9 @@ Debugging is the pinpoint to being a master in any coding language.
 Everyone gets errors, but the best programmers never let it stop them and they find a way to fix it .
 every time! I scoured the internet for a debugging guide,This is what I feel like doing when coding PHP 
 that doesn't mean that this should be your way. Discover, look up, research whatever ways work for you to debug you code!
+
+
+# Tools :wrench:
+- Webbrowser (Chrome, Firefox, IE)
+- XAMPP (Apache, MariaDB, PHP)
+- Visual Studio Code
